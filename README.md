@@ -1,4 +1,4 @@
-# Machine_Learning-Supervised_Learning
+# Machine Learning - Supervised Learning
 ### Instructor: Sana Rasheed
 
 Machine Learning - Supervised Learning course offered by Al-Nafi.
